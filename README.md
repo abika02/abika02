@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">,I'm Ambika!
 
 <!--
 **AmbikaSubramanian/AmbikaSubramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
