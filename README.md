@@ -28,7 +28,7 @@
 <br>
 <hr>
 
-![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AmbikaSubramanian&show_icons=true&theme=dark#gh-dark-mode-only) <a href="https://github.com/anuraghazra/convoychat" style="display: flex; justify-content: center; align-items: center;">
+<a href="https://github.com/anuraghazra/convoychat" style="display: flex; justify-content: center; align-items: center;">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbikaSubramanian&layout=compact&langs_count=8&card_width=100&theme=dark" />
 </a>
 
