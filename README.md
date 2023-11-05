@@ -1,4 +1,4 @@
-<p align="center"><strong>Hello Fellow Coder! Nice to meet you.</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align="center"><strong>Hello! Nice to meet you.</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
   
 
