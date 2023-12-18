@@ -24,7 +24,9 @@
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ambika01)
 <hr>
 
-<strong><i>"Thanks a bunch for stopping by my profile! 🌟 Have a good one! 😊✨"</i></strong>
+<strong><i>"And that's a wrap! 🌟 Feel free to explore. Have a good one! 😊✨"</i></strong>
+
+
 
 
 
