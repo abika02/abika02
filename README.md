@@ -24,9 +24,8 @@
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ambika01)
 <hr>
 
-<a href="https://github.com/anuraghazra/convoychat" style="display: flex; justify-content: center; align-items: center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmbikaSubramanian&layout=compact&langs_count=8&card_width=100&theme=dark" />
-</a>
+<strong><i>"Thanks a bunch for stopping by my profile! 🌟 Have a good one! 😊✨"</i></strong>
+
 
 
 
