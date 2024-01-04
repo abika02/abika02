@@ -19,10 +19,6 @@
 <br>
 <hr>
 
-### <b>Reach Out to Me</b>
-
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/ambika01)
-<hr>
 
 <strong><i>"And that's a wrap!</i></strong> 🌟<strong><i> Feel free to explore. Have a good one! </i></strong>😊✨"
 
