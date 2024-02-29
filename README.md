@@ -5,9 +5,9 @@
 
  <br>
  
-<b>I'm Abi!</b>✨ <br>
+<b>I'm Abi!</b> 🎀 <br>
 <br>
-<b><i>"A passionate Information Technology student who loves to code. I find joy in exploring the intricacies of technology and crafting solutions through programming. Eager to learn, I am dedicated to mastering the art of coding and making a positive impact in the world of technology. I believe in taking small steps every day to achieve my goals🚀☘️."</i></b><br>
+<b>✨<i>Passionate IT student, exploring tech intricacies with joy! 🌱 Dedicated to coding & embracing every challenge, one small step at a time!</i>🎀</b><br>
 
 
 <hr>
