@@ -7,7 +7,7 @@
  
 <b>I'm Abi!</b> 🎀 <br>
 <br>
-<b>✨<i>Passionate IT student, exploring tech intricacies with joy! 🌱 Dedicated to coding & embracing every challenge, one small step at a time!</i>🎀</b><br>
+<b><i>Passionate IT student, exploring tech intricacies with joy! ✨ Dedicated to coding & embracing every challenge, one small step at a time!</i>🎀</b><br>
 
 
 <hr>
