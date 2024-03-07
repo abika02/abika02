@@ -7,10 +7,10 @@
  
 <b>I'm Abi!</b> 🎀 <br>
 <br>
-<b><i>An aspiring developer who loves to code. 🚀👩‍💻💜</i></b><br>
+<b><i><center>An aspiring developer who loves to code. 🚀👩‍💻💜</center></i></b><br>
 
 
-<hr>
+
 
 
 
