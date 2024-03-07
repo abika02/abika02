@@ -7,7 +7,7 @@
  
 <b>I'm Abi!</b> 🎀 <br>
 <br>
-<b><i>Passionate IT student, exploring tech intricacies with joy! ✨ Dedicated to coding & embracing every challenge, one small step at a time!</i>🌱</b><br>
+<b><i>An aspiring developer who loves to code. 🚀👩‍💻💜</i></b><br>
 
 
 <hr>
@@ -16,7 +16,7 @@
 
 
 
-<strong><i>"And that's a wrap!</i></strong> 🌟<strong><i> Feel free to explore. Have a good one! </i></strong>😊✨"
+
 
 
 
