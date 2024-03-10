@@ -1,10 +1,10 @@
-<p align="center"><strong>Hello!</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align="center"><strong>Hello! Nice to meet you</strong> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-  
+  <b>I'm Abi🎀</b>
 
 
 
-<b><i>An aspiring developer who loves to code</i>🎀</b><br>
+<b><i>Passionate IT student, exploring tech intricacies with joy! ✨ Dedicated to coding & embracing every challenge, one small step at a time!🌱</i></b><br>
 
 
 
